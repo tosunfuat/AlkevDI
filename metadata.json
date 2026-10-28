@@ -1,0 +1,6 @@
+{
+  "name": "DI 2026-2027 Get Sorted - Fikir Atölyesi",
+  "description": "Destination Imagination 2026-2027 Get Sorted Teknik Kategorisi için 6. sınıf öğrencileri fikir toplama ve beyin fırtınası portalı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
